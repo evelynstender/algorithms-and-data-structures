@@ -13,3 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Dependency directories
+javascript/node_modules/
+javascript/jspm_packages/
